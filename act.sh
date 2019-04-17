@@ -6,7 +6,7 @@
 
   sleep 1.5s
 
-  cd /home/pcg
+  cd /home/User
 
   sudo apt-get update
 
